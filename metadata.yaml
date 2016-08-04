@@ -1,0 +1,33 @@
+_repo: The-Eskimo-Twins_3774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perkins, Lucy Fitch
+    alias: Fitch, Lucy
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '1216'
+    url: http://www.gutenberg.org/2009/agents/1216
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+description: One in a series of stories that introduce a period of history and geographical
+  location through the adventures of twins.  Here, Eskimo twins, Menie and Monnie,
+  enjoy village life through the four seasons.
+gutenberg_bookshelf:
+- Children's Book Series
+- Native America
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Twins -- Juvenile fiction'
+- GITenberg
+title: The Eskimo Twins
+url: http://www.gutenberg.org/ebooks/3774
